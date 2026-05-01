@@ -378,6 +378,3 @@ User Data Handling
 - [ ] Event-driven architecture
 - [ ] Machine learning pipeline
 
----
-
-**Built to showcase Qapita's modern tech stack** ❤️
