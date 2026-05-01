@@ -341,6 +341,3 @@ Reference:
 8. Done! 🎊
 ```
 
----
-
-**Built for Qapita** ❤️
