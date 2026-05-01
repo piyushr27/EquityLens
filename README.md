@@ -1,6 +1,6 @@
 # 🚀 EquityLens : AI-Powered Cap Table & Equity Insights Assistant
 
-> A **production-ready Qapita-inspired AI platform** showcasing modern equity analytics with natural language processing, built with **LangChain, FastAPI, React, and MongoDB**.
+> **Production-ready AI platform** showcasing modern equity analytics with natural language processing, built with **LangChain, FastAPI, React, and MongoDB**.
 
 ## 📋 Overview
 
@@ -603,6 +603,3 @@ Try these questions in the chat:
 "Calculate dilution for 500 new shares"
 ```
 
----
-
-**Built with ❤️ for Qapita**
