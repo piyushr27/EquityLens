@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Cap Table & Equity Insights Assistant
+# 🚀 EquityLens : AI-Powered Cap Table & Equity Insights Assistant
 
 > A **production-ready Qapita-inspired AI platform** showcasing modern equity analytics with natural language processing, built with **LangChain, FastAPI, React, and MongoDB**.
 
