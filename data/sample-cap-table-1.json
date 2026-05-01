@@ -1,0 +1,35 @@
+{
+  "company_name": "TechStartup Inc.",
+  "shareholders": [
+    {
+      "name": "Founder Alice",
+      "shares": 5000,
+      "share_type": "Common"
+    },
+    {
+      "name": "Founder Bob",
+      "shares": 3000,
+      "share_type": "Common"
+    },
+    {
+      "name": "Seed Investor A",
+      "shares": 2500,
+      "share_type": "Preferred"
+    },
+    {
+      "name": "Seed Investor B",
+      "shares": 2000,
+      "share_type": "Preferred"
+    },
+    {
+      "name": "ESOP Pool",
+      "shares": 2000,
+      "share_type": "Options"
+    },
+    {
+      "name": "Angel Investor",
+      "shares": 1500,
+      "share_type": "Common"
+    }
+  ]
+}

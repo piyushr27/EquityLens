@@ -1,0 +1,35 @@
+{
+  "company_name": "FinTech Solutions Ltd.",
+  "shareholders": [
+    {
+      "name": "CEO James",
+      "shares": 8000,
+      "share_type": "Common"
+    },
+    {
+      "name": "CTO Sarah",
+      "shares": 6000,
+      "share_type": "Common"
+    },
+    {
+      "name": "CFO Mike",
+      "shares": 4000,
+      "share_type": "Common"
+    },
+    {
+      "name": "Series A - VC Fund X",
+      "shares": 5000,
+      "share_type": "Preferred"
+    },
+    {
+      "name": "Series A - Family Office",
+      "shares": 3000,
+      "share_type": "Preferred"
+    },
+    {
+      "name": "ESOP Pool",
+      "shares": 3000,
+      "share_type": "Options"
+    }
+  ]
+}
