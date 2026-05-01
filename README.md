@@ -10,10 +10,6 @@ This project demonstrates a **modern AI + equity platform** that combines:
 - **Real-time Frontend** (React) with charts and analysis
 - **Structured Data** (MongoDB) for cap tables and query history
 
-**Perfect for**: Showcasing Qapita's tech stack and AI-first equity platform architecture.
-
----
-
 ## 🎯 Core Features
 
 ### 1. **Cap Table Management**
@@ -397,7 +393,6 @@ docker run -p 5173:5173 ai-equity-assistant-frontend
 
 ## 🎓 Architecture Highlights
 
-### Why This Showcases Qapita's Stack
 
 ✅ **RAG + Tool Calling**: LangChain agent uses structured tools to query data
 ✅ **Structured Finance Data**: Proper cap table models and calculations
@@ -557,36 +552,6 @@ docker restart <container_id>
 }
 ```
 
----
-
-## 🤝 Contributing
-
-This project is designed to showcase best practices. To improve:
-
-1. Add more MCP-style tools
-2. Enhance LLM prompts
-3. Add frontend features
-4. Improve error handling
-5. Add comprehensive tests
-
----
-
-## 📜 License
-
-MIT License - Feel free to use this for portfolio/demo purposes
-
----
-
-## 💡 Contact & Support
-
-Built to showcase **Qapita's AI + Equity Platform** architecture.
-
-For questions on the codebase:
-- Check API docs: http://localhost:8000/docs
-- Review component structure
-- Check individual file docstrings
-
----
 
 ## 🎉 Quick Demo Queries
 
