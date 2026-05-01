@@ -23,8 +23,8 @@ function App() {
     <div className="app">
       <header className="header">
         <div className="header-content">
-          <h1>🚀 AI-Powered Cap Table & Equity Insights</h1>
-          <p>Qapita-Inspired Equity Analytics Platform</p>
+          <h1> EquityLens </h1>
+          <p>AI-Powered Equity Insights Assistant</p>
         </div>
       </header>
 
